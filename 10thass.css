@@ -1,0 +1,17 @@
+margin {
+}
+
+body {
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  margin: auto;
+  text-align: center;
+}
+#header {
+  margin-left: 17rem;
+  margin-top: 2rem;
+}
